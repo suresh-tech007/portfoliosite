@@ -1,3 +1,5 @@
+import React,{useState} from "react";
+
 //next image >>
 import Image from "next/image";
 

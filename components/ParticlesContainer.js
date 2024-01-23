@@ -34,7 +34,7 @@ const ParticlesContainer = () => {
           quantity:90
         },
         repulse:{
-          distance:200,
+          distance:20,
           duration:0.4
         }
       }
@@ -54,7 +54,7 @@ const ParticlesContainer = () => {
         enable:true,
       },
       move:{
-        directions:'none',
+        directions :'none',
         enable:true,
         outModes:{
           default:'bounce'
