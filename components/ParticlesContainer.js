@@ -34,7 +34,7 @@ const ParticlesContainer = () => {
           quantity:90
         },
         repulse:{
-          distance:20,
+          distance:200,
           duration:0.4
         }
       }
